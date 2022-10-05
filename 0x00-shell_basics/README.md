@@ -30,3 +30,6 @@ Delete's the file betty, that is in /tmp/my_first_directory.
 9-firstdirdeletion
 Delete's the directory my_first_directory that is in the /tmp directory.
 
+10-back
+Changes's the working directory to the previous one.
+

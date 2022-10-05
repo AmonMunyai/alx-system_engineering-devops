@@ -13,6 +13,16 @@ ___
 - 7-movethatfile
 - 8-firstdelete
 - 9-firstdirdeletion
+- [10-back](#10-back)
+- [11-lists](#11-lists)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 ___
 
 ## 0-current_working_directory

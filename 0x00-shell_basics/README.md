@@ -1,5 +1,7 @@
 # 0x00-shell_basics
 
+___
+
 ## 0-current_working_directory
 Print's the absolute path name of the current working directory.
 
@@ -45,8 +47,10 @@ Create's a symbolic link to ```/bin/ls```, named ```__ls__```. The symbolic link
 ## 14-copy_html
 Copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent working directory or were newer than the versions in the parent of the working directory.
 
+___
+
 ## 100-lets_move
-Move's all files beginning with an uppercase letter to the directory ```/tmp/u```.
+### Move's all files beginning with an uppercase letter to the directory ```/tmp/u```.
 
 ## 101-clean_emacs
 Delete's all files in the current working directory that end with the character ```~```.

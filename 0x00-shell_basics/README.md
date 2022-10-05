@@ -15,3 +15,6 @@ Displays current working directory in a long format.
 4-listmorefiles
 Displays current working directory contents, including hidden files (starting with .). Using long format.
 
+5-listfilesdigitonly
+Displays current working directory contents in a long format, with user and group IDs displayed numerically, and hidden files (starting with .).
+

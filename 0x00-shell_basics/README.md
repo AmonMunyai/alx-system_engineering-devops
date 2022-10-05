@@ -39,7 +39,8 @@ List's all files (even ones with names beginning with a period character, which 
 12-file_type
 Print's the type of file named iamafile. Which is located in the /tmp directory.
 
-13
+13-symbolic_link
+Create's a symbolic link to /bin/ls, named __ls__. The symbolic link is created in the current working directory.
 
 14-copy_html
 Copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent working directory or were newer than the versions in the parent of the working directory.

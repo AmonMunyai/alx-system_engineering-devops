@@ -2,6 +2,19 @@
 
 ___
 
+## Contents
+- [0-current_working_directory](#0-current_working_directory)
+- 1-listit
+- 2-bring_me_home
+- 3-listfiles
+- 4-listmorefiles
+- 5-listfilesdigitonly
+- 6-firstdirectory
+- 7-movethatfile
+- 8-firstdelete
+- 9-firstdirdeletion
+___
+
 ## 0-current_working_directory
 Print's the absolute path name of the current working directory.
 
@@ -50,7 +63,7 @@ Copies all the HTML files from the current working directory to the parent of th
 ___
 
 ## 100-lets_move
-### Move's all files beginning with an uppercase letter to the directory ```/tmp/u```.
+Move's all files beginning with an uppercase letter to the directory ```/tmp/u```.
 
 ## 101-clean_emacs
 Delete's all files in the current working directory that end with the character ```~```.
